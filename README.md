@@ -11,12 +11,12 @@ These CSVs were produced by crossmatching gravitational microlensing events from
 ## Column dictionary
 | Column | Description |
 |---|---|
-| `name` |  |
-| `SOURCE_ID` |  |
+| `name` | OGLE ID |
+| `SOURCE_ID` | GAIA DR3 ID |
 | `ra` | Right ascension (J2000), degrees. |
 | `dec` | Declination (J2000), degrees. |
 | `pm` | Total proper motion, milliarcseconds per year (mas/yr). |
-| `phot_g_mean_mag` |  |
+| `phot_g_mean_mag` | mean G band magnitude evaluted by Gaia |
 | `match` | Number of star matches found in generated image; higher = better. Values below 20 are recorded as 'Insufficient matches'. |
 
 ### Semantics & units
