@@ -6,7 +6,6 @@ These CSVs were produced by crossmatching gravitational microlensing events from
 
 ## File overview
 - **Filename:** `{year}.csv`
-- - **Rows:** 302<br>- **Columns:** 7<br>- 
 
 ## Column dictionary
 | Column | Description |
