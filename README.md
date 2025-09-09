@@ -4,7 +4,7 @@ These CSVs were produced by crossmatching gravitational microlensing events from
 
 ** This repository will be completed soon.
 
-> **Dataset version:** 2025-09-09
+> **Dataset version:** 2025-09-09**
 
 ## File overview
 - **Filename:** `{year}.csv`
