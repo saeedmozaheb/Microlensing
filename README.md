@@ -1,6 +1,8 @@
 # GAIA × OGLE Microlensing Crossmatch — `{year}.csv`
 
-These CSVs were produced by crossmatching gravitational microlensing events from the **OGLE** survey with counterparts in the **Gaia** catalog. Each row corresponds to one OGLE event and (when available) its matched Gaia source, with astrometry, photometry, and a match-quality indicator.
+These CSVs were produced by crossmatching gravitational microlensing events from the **OGLE** survey with counterparts in the **Gaia** catalog. Each row corresponds to one OGLE event and (when available) its matched Gaia source, with astrometry, photometry, and a match-quality indicator. 
+
+** This repository will be completed soon.
 
 > **Dataset version:** 2025-09-09
 
