@@ -39,7 +39,7 @@ These CSVs were produced by crossmatching gravitational microlensing events from
 ```python
 import pandas as pd
 
-df = pd.read_csv("Data 2002-389.csv")
+df = pd.read_csv("2004.csv")
 
 # Keep rows with robust matches (>= 20)
 is_insuff = df["match"].astype(str).str.lower() == "insufficient matches"
